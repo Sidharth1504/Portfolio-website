@@ -1,0 +1,29 @@
+*{
+    background-color: black;
+}
+.Contact {
+    background-color: black;
+    color: white;
+    padding: 3rem 0;
+}
+
+.ContactContainer {
+    max-width: 1152px;
+    padding: 0 15px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.Contact-heading {
+    font-size: 2.5rem;
+    color: #1dddbd;
+}
+
+.Contact-info {
+    line-height: 1.9;
+    margin: 1rem 0;
+}
+
+.Contact-address {
+    margin-top: 1rem;
+}
